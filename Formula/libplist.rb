@@ -1,4 +1,4 @@
-class LibPlist < Formula
+class Libplist < Formula
 	desc "A library to handle Apple Property List format in binary or XML"
 	homepage "http://www.libimobiledevice.org"
 	url "https://github.com/tihmstar/libplist/archive/2.0.0.tar.gz"
