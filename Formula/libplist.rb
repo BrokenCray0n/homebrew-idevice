@@ -14,7 +14,4 @@ class LibPlist < Formula
     def install
     	system "./autogen.sh", "--prefix=#{prefix}"
     	system "make", "install"
-    end
-
-
-
+end
